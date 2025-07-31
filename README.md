@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Rauan Tavares
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas — Unifametro
 📍 Fortaleza - CE  
 💼 Professor de Inglês na Escola Estrela da Manhã  
 🌱 Em busca do meu primeiro estágio na área de tecnologia  
